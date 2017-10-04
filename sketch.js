@@ -48,6 +48,6 @@ function draw() {
   strokeWeight(20);
   stroke(20,20,20);
   noFill();
-  rect(340,460,120,30);
+  rect(385,460,30,30);
 
 }
